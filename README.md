@@ -1,6 +1,6 @@
 # Tictactoe
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
+Teste para criar um game "Jogo da velha"
 
 ## Development server
 
