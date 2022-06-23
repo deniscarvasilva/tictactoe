@@ -1,0 +1,7 @@
+.row {
+    display: flex;
+}
+.button {
+    width: 90px;
+    height: 90px;
+}
